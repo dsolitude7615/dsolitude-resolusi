@@ -1,0 +1,7 @@
+DSolitude Resolusi :
+1. Konten Web.
+2. Master Register & Login.
+3. Web Portofolio 
+4. Web App ERP
+5. Web App Family Tree.
+6. Fokus Udemy, Codepolitan
